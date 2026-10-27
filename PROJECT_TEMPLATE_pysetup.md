@@ -4,7 +4,7 @@
 > Example: `pysetup myproject`
 
 **Team:** Swapnil Gaur , Prajwal Mali  
-**Repository:** [URL]  
+**Repository:** https://github.com/SwapnilGaur05/pysetup-Python-Project-Starter  
 **Date:** 27-10-2026
 
 ---
