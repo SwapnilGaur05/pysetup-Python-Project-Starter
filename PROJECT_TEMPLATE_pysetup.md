@@ -6,7 +6,7 @@
 pysetup myproject
 ```
 
-**Team:** Swapnil Gaur, Prajwal Mali  
+**Team:** Swapnil Gaur (150097926057), Prajwal Mali (150097926045) 
 **Repository:** https://github.com/SwapnilGaur05/pysetup-Python-Project-Starter  
 **Date:** 27-10-2026
 
